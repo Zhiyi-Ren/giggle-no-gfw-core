@@ -1,10 +1,18 @@
 # giggle-no-gfw-core
 
-zh-tw:https://git.io/JTwL2
+# developed by giggle
 
-zh-cn:https://git.io/JTwLo
+# email:zhiyiren2009@gmail.com
 
-en-us:https://git.io/JTwLS
+# telegram:https://t.me/giggle_haha
+
+# web-site:https://www.giggle.buzz/
+
+# zh-tw:https://git.io/JTwL2
+
+# zh-cn:https://git.io/JTwLo
+
+# en-us:https://git.io/JTwLS
 
 
 # zh-tw
@@ -19,6 +27,8 @@ releases是通用的，只需修改shell的部分內容，releases沒有的系�
 
 如有疑問或建議請到https://git.io/JTwtv
 
+配置文件位於config文件夾中，文件名為server name.json。
+
 
 # zh-cn
 
@@ -32,6 +42,9 @@ releases是通用的，只需修改shell的部分内容，releases没有的系�
 
 如有疑问或建议请到https://git.io/JTwtv
 
+配置文件位于config文件夹中，文件名为server name.json。
+
+
 # en-us
 
 This project is based on v2ray, a project created when boring
@@ -43,3 +56,6 @@ The code part only contains shell, not v2ray, if you need to download, please go
 Releases are universal, you only need to modify part of the shell content. For systems that do not have releases, you can download the official version of v2ray
 
 If you have any questions or suggestions, please go to https://git.io/JTwtv
+
+The configuration file is in the config folder and the file name is server name.json
+
